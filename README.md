@@ -1,6 +1,6 @@
 # Dynamic-Plots
-"Dynamic Plots - 045046.ipynb" Contains the Source Code, Analysis, and Outputs for Dynamic Plots created for the mentioned datasets.
+"Dynamic_Plots - 045046_(2).ipynb" Contains the Analysis, and Outputs for Dynamic Plots created for the mentioned datasets.
 
-"pizza sales (1) is the Datasets used for making Dynamic Plots.
+"pizza_sales (1) is the Datasets used for making Dynamic Plots.
 
 This repository belongs to Rishika Arya (PGDM-BDA-04)
