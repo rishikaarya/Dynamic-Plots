@@ -1,5 +1,5 @@
 # Dynamic-Plots
-"Dynamic_Plots_045046_(2).ipynb" Contains the Analysis, and Outputs for Dynamic Plots created for the mentioned datasets.
+"Dynamic_Plots_045046_(2).ipynb" Contains the Analysis, and Outputs for Dynamic Plots created for the mentioned dataset.
 
 "pizza_sales (1).csv is the Datasets used for making Dynamic Plots.
 
